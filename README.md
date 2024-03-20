@@ -2,6 +2,8 @@
 
 <img src="./public/banner.png" width="100%" />
 
+[![Static Badge](https://img.shields.io/badge/Originally%20posted%20on%20my%20developer%20blog-blue)](https://www.grandrapidsdeveloper.com/blog/Fulfill-Google-Plays-Data-Safety-Requirements-in-20-Minutes)
+
 If you're an Android developer, you're likely aware of the new Data Safety standards that the Google Play Store is now requiring. In the past, this involved including a mechanism in your app to let the user delete their account under some circumstances. Now, the requirements have increased, and users must be able to delete their account from **outside of the app** via a web interface.
 
 <img src="./public/policy.png" width="100%" />
