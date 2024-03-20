@@ -27,6 +27,7 @@ export default function AccountDeletionForm() {
     } else {
       // handle error
     }
+    setEmail('');
   };
   return (
     <div className='grid items-center gap-4 px-4 py-6 mx-auto max-w-sm rounded-lg border border-gray-200 bg-gray-50 dark:border-gray-800 dark:bg-gray-900'>

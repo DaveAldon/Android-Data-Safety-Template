@@ -7,11 +7,11 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Career Pathway Account Support</title>
+        <title>{'<App Name>'} Account Support</title>
         <meta
           name='description'
           content={`
-          Account deletion request process for the Career Pathway app.`}
+          Account deletion request process for the <App Name> app.`}
         />
         <meta name='viewport' content='width=device-width, initial-scale=1' />
         <link rel='icon' href='/favicon.ico' />
