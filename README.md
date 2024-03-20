@@ -52,7 +52,9 @@ NextJS is a static site generator, so you can deploy this to any static site hos
 
 <img src="./public/form.png" width="100%" />
 
-- **Submit your changes**: Once the web form works and the link is in place for your Google Play store listing, you can submit your changes. It should be approved within a few days.
+- **Submit your changes**: Once the web form works and the link is in place for your Google Play store listing, you can submit your changes. It should be approved within a few days! Below is the message Google should send you in the Play Console when your changes are approved:
+
+<img src="./public/success.png" width="100%" />
 
 ## Considerations
 
